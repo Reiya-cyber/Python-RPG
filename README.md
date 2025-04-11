@@ -1,4 +1,4 @@
-# Group1 Dragon Quest
+# Python-RPG
 
 An immersive Dragon Quest-inspired RPG built with Python and Pygame, featuring dynamic maps, engaging battles, and interactive NPC conversations.
 
@@ -15,7 +15,7 @@ An immersive Dragon Quest-inspired RPG built with Python and Pygame, featuring d
 
 ## Overview
 
-Group1 Dragon Quest is a turn-based RPG game that captures the nostalgic essence of classic JRPGs while implementing modern programming practices. Navigate through various maps, interact with NPCs, engage in strategic battles, and progress through an engaging storyline.
+This is a turn-based RPG game that captures the nostalgic essence of classic JRPGs while implementing modern programming practices. Navigate through various maps, interact with NPCs, engage in strategic battles, and progress through an engaging storyline.
 
 ## Features
 
@@ -42,7 +42,7 @@ git clone https://10.21.75.193/csnt-161/lab-assignment-2/group1-dragonquest.git
 
 Navigate into the project directory:
 ```bash
-cd group1-dragonquest
+cd Python-RPG
 ```
 
 Install dependencies:
